@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\bin\Debug\Database1.mdf
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\bin\Debug\Database1_log.ldf
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.phones.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.add_phone.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.update_phone.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.delet_phone.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\database\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.search_phone.resources
